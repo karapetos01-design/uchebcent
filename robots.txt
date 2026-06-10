@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Host: uchebcent.ru
+
+Sitemap: https://uchebcent.ru/sitemap.xml
